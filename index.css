@@ -1,0 +1,37 @@
+body {
+    color: rgb(227, 231, 228);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 8;
+    border: 20px color black;
+    bottom: auto;
+    margin: 50px;
+    text-align: center;
+    background-color: rgb(2, 66, 27);
+    list-style: lower-alpha color black;
+    table-layout: auto;
+} 
+
+h1 {
+    padding: 30px;
+    text-align: center;
+    font-size: 38px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(2, 94, 2);
+}
+h2 {
+    text-align: center;
+    padding: 38px;
+    font-family: Helvetica;
+    font-size: 30px;
+    background-color: rgb(2, 66, 27);
+}
+h3 {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    background-color:rgb(3, 80, 3);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
